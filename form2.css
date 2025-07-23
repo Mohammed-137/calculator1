@@ -1,0 +1,15 @@
+body {
+  background: linear-gradient(to right, #667eea, #764ba2);
+  min-height: 100vh;
+  font-family: "Segoe UI", sans-serif;
+  color: white;
+}
+
+input.form-control {
+  border-radius: 10px;
+}
+
+.bg-white h4,
+.bg-white h5 {
+  color: #333;
+}
